@@ -95,16 +95,15 @@ experiences:
         company: Samsung Electronics
         details: Participated in internship program at Samsung electronics MX division
         
-      - role: 
-        time: 
-        company: 
-        details: 
-
-      - role: 
-        time: 
-        company: 
-        details: 
-
+      - role: TOEFL: 113/120 
+        time: 19.05.11
+       
+      - role: TOEIC speaking: 180/200 
+        time: 22.05.28
+     
+      - role:  OPIC speaking: IH 
+        time: 22.08.25
+ 
 projects:
     title: Projects
     intro: Projects that I have attended
@@ -130,31 +129,24 @@ publications:
         link: 
         authors: 
         conference: 
+ 
 
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-awards:
-      - award: 3rd place for "Techathon" idea competition
+publications:
+    title: awards
+    papers:
+      - Title: 3rd place for "Techathon" idea competition
         time: 22.01.22~22.01.23
-        organizer: POSTECH Tech-Review
+        authors: POSTECH Tech-Review
         details: Won 3rd place out of 7 teams in hackathon idea competition
       
-      - award: 2nd place for Pohang venture valley promotion idea competition 
+      - Title: 2nd place for Pohang venture valley promotion idea competition 
         time: 21.03.29~21.05.14
-        organizer: POSTECH 문명시민교육원
+        authors: POSTECH 문명시민교육원
         details: Won 2nd place for Pohang venture valley promotion idea competition
       
-      - award: 2nd place for POSTECH APGC-Lab ideathon competition 
+      - Title: 2nd place for POSTECH APGC-Lab ideathon competition 
         time: 20.11.28
-        organizer: POSTECH APGC-Lab
+        authors: POSTECH APGC-Lab
         details: Won 2nd place out of 6 teams in ideathon competition
 
 skills:
