@@ -96,34 +96,6 @@ experiences:
         company: Samsung Electronics
         details: Participated in internship program at Samsung electronics MX division
         
-      - role: TOEFL = 113/120 
-        time: 19.05.11
-        company:
-        details:
-       
-      - role: TOEIC speaking = 180/200 
-        time: 22.05.28
-        company:
-        details:
-     
-      - role:  OPIC speaking = IH 
-        time: 22.08.25
-        company:
-        details:
- 
-projects:
-    title: Projects
-    intro: Projects that I have attended
-    
-    assignments:
-      - title: Metaverse artbox/gallery
-        link: https://github.com/jinyoungjy/metaverse_artgallery
-        tagline:
-
-experiences:
-    title: Language proficiency tests
-    info:
-    
       - role: TOEFL (113/120) 
         time: 2019.05.11
         company:
@@ -138,6 +110,16 @@ experiences:
         time: 2022.08.25
         company:
         details:
+ 
+projects:
+    title: Projects
+    intro: Projects that I have attended
+    
+    assignments:
+      - title: Metaverse artbox/gallery
+        link: https://github.com/jinyoungjy/metaverse_artgallery
+        tagline:
+
 oss:
     title: OSS
     intro: 
