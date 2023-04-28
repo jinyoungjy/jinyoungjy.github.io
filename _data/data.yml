@@ -120,6 +120,22 @@ projects:
         link: https://github.com/jinyoungjy/metaverse_artgallery
         tagline:
 
+test:
+    title: Language proficiency tests
+    info:
+
+      - role: TOEFL (113/120) 
+        time: 2019.05.11
+        details:
+       
+      - role: TOEIC speaking (180/200) 
+        time: 2022.05.28
+        details:
+     
+      - role:  OPIC speaking (IH) 
+        time: 2022.08.25
+        details:
+
 oss:
     title: OSS
     intro: 
