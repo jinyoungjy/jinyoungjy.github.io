@@ -95,21 +95,6 @@ experiences:
         time: 2022.06 ~ 2022.08
         company: Samsung Electronics
         details: Participated in internship program at Samsung electronics MX division
-        
-      - role: TOEFL (113/120) 
-        time: 2019.05.11
-        company:
-        details:
-       
-      - role: TOEIC speaking (180/200) 
-        time: 2022.05.28
-        company:
-        details:
-     
-      - role:  OPIC speaking (IH) 
-        time: 2022.08.25
-        company:
-        details:
  
 projects:
     title: Projects
@@ -121,10 +106,18 @@ projects:
         tagline:
 
 oss:
-    title: OSS
-    intro: 
-    contributions:
-      - title: 
+    title: Language proficiency tests
+    intro: List of achieved language proficiency tests
+    contributions: 
+      - title: OPIC speaking (IH) 2022.08.25
+        link: 
+        tagline:
+      
+      - title: TOEIC speaking (180/200) 2022.05.28
+        link: 
+        tagline:
+        
+      - title: TOEFL (113/120) 2019.05.11
         link: 
         tagline: 
 
@@ -149,10 +142,6 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    
-    TOEFL: 113/120 (acheived in 19.05.11)
-    TOEIC speaking: 180/200 (acheived in 22.05.28)
-    OPIC speaking: IH (achieved in 22.08.25)
     
     toolset:
       - name: Python
