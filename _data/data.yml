@@ -54,20 +54,21 @@ career-profile:
     title: Welcome
     summary: |
         Hello, my name is Jinyoung Kim. 
-        I am an undergraduate student at POSTECH, majoring in electrical engineering.
-        I aim to be a researcher.
+        I'm an undergraduate student at POSTECH, majoring in electrical engineering.
+        I lived in Thailand from 2008 to 2019, and I'm currently living in South Korea.
+        
         
 education:
     title: Education
     info:
-      - degree: Combined s/PhD
-        university: Data Systems Laboratory, Pohang University of Science and Technology (POSTECH)
-        time: 2023 ~
-        details: Under supervision of Professor Wook-Shin Han
+      - degree: 
+        university: 
+        time: 
+        details: 
         
       - degree: BS in Electrical Engineering
         university: Pohang University of Science and Technology (POSTECH)
-        time: 2020 - 2024
+        time: 2020 - present
         details: 
         
       - degree: High School
@@ -89,10 +90,10 @@ experiences:
         company: Postech Integrated Circuits and Systems Lab (POSTECH)
         details: Participated in undergraduate research program under supervision of Professor Jae-Yoon Sim
         
-      - role: Intern
-        time: 2022.06 ~ 2022.09
-        company: Samsung Electronics Inc.
-        details: Intern at MX division
+      - role: Internship
+        time: 2022.06 ~ 2022.08
+        company: Samsung Electronics
+        details: Participated in internship program at Samsung electronics MX division
         
       - role: 
         time: 
@@ -106,11 +107,11 @@ experiences:
 
 projects:
     title: Projects
-    intro: Projects I have attended
+    intro: Projects that I have attended
     
     assignments:
       - title: Metaverse artbox/gallery
-        link: 
+        link: https://github.com/jinyoungjy/metaverse_artgallery
         tagline:
         
 oss:
@@ -140,9 +141,29 @@ publications:
         authors: 
         conference: 
 
+awards:
+      - award: 3rd place for "Techathon" idea competition
+        time: 22.01.22~22.01.23
+        organizer: POSTECH Tech-Review
+        details: Won 3rd place out of 7 teams in hackathon idea competition
+      
+      - award: 2nd place for Pohang venture valley promotion idea competition 
+        time: 21.03.29~21.05.14
+        organizer: POSTECH 문명시민교육원
+        details: Won 2nd place for Pohang venture valley promotion idea competition
+      
+      - award: 2nd place for POSTECH APGC-Lab ideathon competition 
+        time: 20.11.28
+        organizer: POSTECH APGC-Lab
+        details: Won 2nd place out of 6 teams in ideathon competition
+
 skills:
     title: Skills &amp; Proficiency
-
+    
+    TOEFL: 113/120 (acheived in 19.05.11)
+    TOEIC speaking: 180/200 (acheived in 22.05.28)
+    OPIC speaking: IH (achieved in 22.08.25)
+    
     toolset:
       - name: Python
         level: 80%
