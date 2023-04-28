@@ -120,22 +120,6 @@ projects:
         link: https://github.com/jinyoungjy/metaverse_artgallery
         tagline:
 
-test:
-    title: Language proficiency tests
-    info:
-
-      - role: TOEFL (113/120) 
-        time: 2019.05.11
-        details:
-       
-      - role: TOEIC speaking (180/200) 
-        time: 2022.05.28
-        details:
-     
-      - role:  OPIC speaking (IH) 
-        time: 2022.08.25
-        details:
-
 oss:
     title: OSS
     intro: 
@@ -145,13 +129,23 @@ oss:
         tagline: 
 
 publications:
-    title: Publications
-    intro: Future publications I will submit will be listed afterwards
+    title: Awards
+    intro: Achieved awards
     papers:
-      - title: 
+      - title: 3rd place for "Techathon" idea competition (22.01.22~22.01.23) 
         link: 
-        authors: 
-        conference: 
+        authors: POSTECH Tech-Review 
+        conference: Won 3rd place out of 7 teams in hackathon idea competition
+      
+      - title: 2nd place for Pohang venture valley promotion idea competition (21.03.29~21.05.14) 
+        link: 
+        authors: POSTECH 문명시민교육원 
+        conference: Won 2nd place for Pohang venture valley promotion idea competition
+      
+      - title: 2nd place for POSTECH APGC-Lab ideathon competition (20.11.28) 
+        link: 
+        authors: POSTECH APGC-Lab 
+        conference: Won 2nd place out of 6 teams in ideathon competition
 
 skills:
     title: Skills &amp; Proficiency
