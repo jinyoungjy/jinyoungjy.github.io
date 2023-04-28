@@ -52,7 +52,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Welcome homies
+    title: Background information
     summary: |
         Hello, my name is Jinyoung Kim. 
         I'm an undergraduate student at POSTECH, majoring in electrical engineering.
@@ -119,9 +119,27 @@ projects:
       - title: Metaverse artbox/gallery
         link: https://github.com/jinyoungjy/metaverse_artgallery
         tagline:
-        
+
+experiences:
+    title: Language proficiency tests
+    info:
+    
+      - role: TOEFL (113/120) 
+        time: 2019.05.11
+        company:
+        details:
+       
+      - role: TOEIC speaking (180/200) 
+        time: 2022.05.28
+        company:
+        details:
+     
+      - role:  OPIC speaking (IH) 
+        time: 2022.08.25
+        company:
+        details:
 oss:
-    title: awards
+    title: OSS
     intro: 
     contributions:
       - title: 
