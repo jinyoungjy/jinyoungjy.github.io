@@ -106,9 +106,13 @@ projects:
     intro: Projects that I have attended
     
     assignments:
+      - title: Designing ADC circuit (EPIC Lab intern project)
+        link: https://github.com/jinyoungjy/23-1labintern
+        tagline: 23.01~23.02
+      
       - title: Metaverse artbox/gallery
         link: https://github.com/jinyoungjy/metaverse_artgallery
-        tagline:
+        tagline: 22.09~22.12
 
 oss:
     title: Language proficiency tests
