@@ -109,17 +109,17 @@ oss:
     title: Language proficiency tests
     intro: List of achieved language proficiency tests
     contributions: 
-      - title: OPIC speaking (IH) 2022.08.25
+      - title: OPIC speaking (IH) 
         link: 
-        tagline:
+        tagline: 2022.08.25
       
-      - title: TOEIC speaking (180/200) 2022.05.28
+      - title: TOEIC speaking (180/200) 
         link: 
-        tagline:
+        tagline: 2022.05.28
         
-      - title: TOEFL (113/120) 2019.05.11
+      - title: TOEFL (113/120) 
         link: 
-        tagline: 
+        tagline: 2019.05.11 
 
 publications:
     title: Awards
