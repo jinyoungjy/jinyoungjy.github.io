@@ -123,20 +123,20 @@ projects:
 oss:
     title: awards
     intro: Achieved awards
-    contributions: 3rd place for "Techathon" idea competition (22.01.22~22.01.23)
+    contributions: 3rd place for Techathon idea competition (22.01.22~22.01.23)
       - title: 3rd place for Techathon idea competition
-        link: POSTECH Tech-Review
-        tagline: Won 3rd place out of 7 teams in hackathon idea competition
+        link: 
+        tagline: POSTECH Tech-Review, Won 3rd place out of 7 teams in hackathon idea competition
         
     contributions: 2nd place for Pohang venture valley promotion idea competition (21.03.29~21.05.14)
       - title: 2nd place for Pohang venture valley promotion idea competition
-        link: POSTECH 문명시민교육원
-        tagline: Won 2nd place for Pohang venture valley promotion idea competition
+        link: 
+        tagline: POSTECH 문명시민교육원, Won 2nd place for Pohang venture valley promotion idea competition
     
     contributions: 2nd place for POSTECH APGC-Lab ideathon competition (20.11.28)
       - title: 2nd place for POSTECH APGC-Lab ideathon competition
-        link: POSTECH APGC-Lab
-        tagline: Won 2nd place out of 6 teams in ideathon competition
+        link: 
+        tagline: POSTECH APGC-Lab, Won 2nd place out of 6 teams in ideathon competition
 
 publications:
     title: Publications
