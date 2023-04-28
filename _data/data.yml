@@ -115,12 +115,22 @@ projects:
         tagline:
         
 oss:
-    title: OSS Contributions
-    intro: 
-    contributions:
-      - title: 
-        link: 
-        tagline: 
+    title: awards
+    intro: Achieved awards
+    contributions: 3rd place for "Techathon" idea competition (22.01.22~22.01.23)
+      - title: 3rd place for "Techathon" idea competition
+        link: POSTECH Tech-Review
+        tagline: Won 3rd place out of 7 teams in hackathon idea competition
+        
+    contributions: 2nd place for Pohang venture valley promotion idea competition (21.03.29~21.05.14)
+      - title: 2nd place for Pohang venture valley promotion idea competition
+        link: POSTECH 문명시민교육원
+        tagline: Won 2nd place for Pohang venture valley promotion idea competition
+    
+    contributions: 2nd place for POSTECH APGC-Lab ideathon competition (20.11.28)
+      - title: 2nd place for POSTECH APGC-Lab ideathon competition
+        link: POSTECH APGC-Lab
+        tagline: Won 2nd place out of 6 teams in ideathon competition
 
 publications:
     title: Publications
@@ -130,25 +140,6 @@ publications:
         link: 
         authors: 
         conference: 
- 
-
-publications:
-    title: awards
-    papers:
-      - Title: 3rd place for "Techathon" idea competition
-        time: 22.01.22~22.01.23
-        authors: POSTECH Tech-Review
-        details: Won 3rd place out of 7 teams in hackathon idea competition
-      
-      - Title: 2nd place for Pohang venture valley promotion idea competition 
-        time: 21.03.29~21.05.14
-        authors: POSTECH 문명시민교육원
-        details: Won 2nd place for Pohang venture valley promotion idea competition
-      
-      - Title: 2nd place for POSTECH APGC-Lab ideathon competition 
-        time: 20.11.28
-        authors: POSTECH APGC-Lab
-        details: Won 2nd place out of 6 teams in ideathon competition
 
 skills:
     title: Skills &amp; Proficiency
