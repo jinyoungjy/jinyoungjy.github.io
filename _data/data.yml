@@ -98,12 +98,18 @@ experiences:
         
       - role: TOEFL: 113/120 
         time: 19.05.11
+        company:
+        details:
        
       - role: TOEIC speaking: 180/200 
         time: 22.05.28
+        company:
+        details:
      
       - role:  OPIC speaking: IH 
         time: 22.08.25
+        company:
+        details:
  
 projects:
     title: Projects
