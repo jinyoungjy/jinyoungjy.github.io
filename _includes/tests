@@ -1,0 +1,19 @@
+{% assign tests = site.data.data.sidebar.tests %}
+{% if tests %}
+<div class="tests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ tests.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for test in tests.info %}
+    <li>
+      {{ test.score }}
+      <span class="lang-desc">({{ language.date }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
