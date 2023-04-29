@@ -110,6 +110,10 @@ projects:
         link: https://github.com/jinyoungjy/23-1labintern
         tagline: 23.01~23.02
       
+      - title: Multiplayer shooting game using unity and photon server
+        link: https://github.com/jinyoungjy/keropang
+        tagline: 23.02
+        
       - title: Metaverse artbox/gallery
         link: https://github.com/jinyoungjy/metaverse_artgallery
         tagline: 22.09~22.12
