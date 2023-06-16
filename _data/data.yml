@@ -80,13 +80,18 @@ education:
 experiences:
     title: Experiences
     info:
-      
+    
+       - role: Undergraduate research intern (IIL)
+        time: 2023.06 ~ 2023.08
+        company: Postech Information and Intelligence Lab (POSTECH)
+        details: Participated in undergraduate research program under supervision of Professor Yongjune Kim
+        
       - role: Photon detecting system research (capstone design project)
         time: 2022.09 ~ 2023.06
         company: Quantum Computing and Quantum Networks Lab (POSTECH)
         details: Participated in research to construct PMT pulse counting system under supervision of Professor Moonjoo Lee
       
-      - role: Undergraduate research intern
+      - role: Undergraduate research intern (PICS Lab)
         time: 2023.01 ~ 2023.02
         company: Postech Integrated Circuits and Systems Lab (POSTECH)
         details: Participated in undergraduate research program under supervision of Professor Jae-Yoon Sim
@@ -106,7 +111,7 @@ projects:
     intro: Projects that I have attended
     
     assignments:
-      - title: Designing ADC circuit (EPIC Lab intern project)
+      - title: Designing ADC circuit (PICS Lab intern project)
         link: https://github.com/jinyoungjy/23-1labintern
         tagline: 23.01~23.02
       
