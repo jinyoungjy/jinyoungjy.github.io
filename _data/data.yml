@@ -84,7 +84,7 @@ experiences:
       - role: Undergraduate research intern (IIL)
         time: 2023.06 ~ 2023.08
         company: Postech Information and Intelligence Lab (POSTECH)
-        details: Participated in undergraduate research program under supervision of Professor Yongjune Kim
+        details: Participated in undergraduate research program under supervision of Professor Yongjune Kim (Research interest: Semantic communication)
         
       - role: Photon detecting system research (capstone design project)
         time: 2022.09 ~ 2023.06
@@ -94,7 +94,7 @@ experiences:
       - role: Undergraduate research intern (PICS Lab)
         time: 2023.01 ~ 2023.02
         company: Postech Integrated Circuits and Systems Lab (POSTECH)
-        details: Participated in undergraduate research program under supervision of Professor Jae-Yoon Sim
+        details: Participated in undergraduate research program under supervision of Professor Jae-Yoon Sim (Research interest: ADC)
         
       - role: Internship
         time: 2022.06 ~ 2022.08
@@ -146,7 +146,7 @@ publications:
       - title: 3rd place for "Techathon" idea competition (22.01.22~22.01.23) 
         link: 
         authors: POSTECH Tech-Review 
-        conference: Won 3rd place out of 7 teams in hackathon idea competition
+        conference: Won 3rd place in hackathon idea competition
       
       - title: 2nd place for Pohang venture valley promotion idea competition (21.03.29~21.05.14) 
         link: 
@@ -156,7 +156,7 @@ publications:
       - title: 2nd place for POSTECH APGC-Lab ideathon competition (20.11.28) 
         link: 
         authors: POSTECH APGC-Lab 
-        conference: Won 2nd place out of 6 teams in ideathon competition
+        conference: Won 2nd place in ideathon competition
 
 skills:
     title: Skills &amp; Proficiency
