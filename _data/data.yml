@@ -54,9 +54,14 @@ sidebar:
 career-profile:
     title: Background information
     summary: |
-        Hello, my name is Jinyoung Kim. 
-        I'm an undergraduate student at POSTECH, majoring in electrical engineering.
-        I lived in Thailand from 2008 to 2019, and I'm currently living in South Korea.
+        Hello, my name is Jinyoung Kim. I'm an undergraduate student at POSTECH (Pohang University of Science and Technology), 
+        majoring in Electrical Engineering with a strong interest in data analysis, systems programming, and real-world problem 
+        solving through technology.
+        I lived in Thailand from 2008 to 2019, where I developed a global perspective and bilingual communication skills.
+        This international upbringing has helped me approach problems from multiple cultural and analytical angles.
+        Since returning to South Korea, I have continued to pursue challenging academic projects and collaborative initiatives, both in and out of the classroom. My experiences span embedded systems, 
+        software development, and wireless communication engineering. I enjoy working at the intersection of hardware and software, and 
+        I'm passionate about building efficient, scalable, and impactful solutions — whether in research labs, or engineering teams.
         
         
 education:
@@ -165,14 +170,14 @@ skills:
       - name: Python
         level: 50%
 
-      - name: C
-        level: 50%
+      - name: C/C++
+        level: 30%
       
       - name: Verilog
         level: 40%
       
-      - name: C++
-        level: 30%
+      - name: Java
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
