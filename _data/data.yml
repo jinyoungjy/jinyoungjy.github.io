@@ -57,10 +57,9 @@ career-profile:
         Hello, my name is Jinyoung Kim. I'm an undergraduate student at POSTECH, 
         majoring in Electrical Engineering with a strong interest in and real-world problem 
         solving through technology.
-       
-        &nbsp; I lived in Thailand from 2008 to 2019, where I developed a global perspective and bilingual communication skills.
+        &nbsp;I lived in Thailand from 2008 to 2019, where I developed a global perspective and bilingual communication skills.
         This international upbringing has helped me approach problems from multiple cultural and analytical angles.
-        Since returning to South Korea, I have continued to pursue challenging academic projects and collaborative initiatives, both in and out of the classroom. My experiences span embedded systems, 
+        &nbsp;Since returning to South Korea, I have continued to pursue challenging academic projects and collaborative initiatives, both in and out of the classroom. My experiences span embedded systems, 
         software development, and wireless communication engineering. I enjoy working at the intersection of hardware and software, and 
         I'm passionate about building efficient, scalable, and impactful solutions — whether in research labs, or engineering teams.
         
@@ -117,6 +116,10 @@ projects:
     intro: Projects that I have attended
     
     assignments:
+      - title: Code smell detecting plugin for Intellij IDEA (Software Design Method Final Project)
+        link: https://github.com/jinyoungjy/CSED332
+        tagline: 23.09~23.12
+        
       - title: Designing ADC circuit (PICS Lab intern project)
         link: https://github.com/jinyoungjy/23-1labintern
         tagline: 23.01~23.02
