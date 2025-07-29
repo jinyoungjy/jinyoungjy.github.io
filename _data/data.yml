@@ -52,9 +52,6 @@ sidebar:
           link:
 
 career-profile:
-  - title: 메토링만을 위한 나의 메이플 프로필
-    link: https://github.com/jinyoungjy/CSED332
-
   - title: Background information
     summary: |
         Hello, my name is Jinyoung Kim. I'm an undergraduate student at POSTECH, 
@@ -67,6 +64,8 @@ career-profile:
         Since returning to South Korea, I have continued to pursue challenging academic projects and collaborative initiatives, both in and out of the classroom. My experiences span embedded systems, 
         software development, and wireless communication engineering. I enjoy working at the intersection of hardware and software, and 
         I'm passionate about building efficient, scalable, and impactful solutions — whether in research labs, or engineering teams.
+        
+        [메토링만을 위한 나의 메이플 프로필](https://docs.google.com/document/d/1DdCZ91cTvKgWesp32Olcf0xOAcqE80Vv3ydVqb2AMI0/edit?usp=sharing)
         
 education:
     title: Education
