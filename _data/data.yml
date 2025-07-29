@@ -54,11 +54,12 @@ sidebar:
 career-profile:
   - title: 메토링만을 위한 나의 메이플 프로필
     link: https://github.com/jinyoungjy/CSED332
+
   - title: Background information
     summary: |
-      Hello, my name is Jinyoung Kim. I'm an undergraduate student at POSTECH, 
-      majoring in Electrical Engineering with a strong interest in and real-world 
-      problem solving through technology.
+        Hello, my name is Jinyoung Kim. I'm an undergraduate student at POSTECH, 
+        majoring in Electrical Engineering with a strong interest in and real-world 
+        problem solving through technology.
         
         I lived in Thailand from 2008 to 2019, where I developed a global perspective and bilingual communication skills.
         This international upbringing has helped me approach problems from multiple cultural and analytical angles.
@@ -66,10 +67,6 @@ career-profile:
         Since returning to South Korea, I have continued to pursue challenging academic projects and collaborative initiatives, both in and out of the classroom. My experiences span embedded systems, 
         software development, and wireless communication engineering. I enjoy working at the intersection of hardware and software, and 
         I'm passionate about building efficient, scalable, and impactful solutions — whether in research labs, or engineering teams.
-
-     title: 메토링만을 위한 자기소개서
-        link: https://github.com/jinyoungjy/CSED332
-        
         
 education:
     title: Education
