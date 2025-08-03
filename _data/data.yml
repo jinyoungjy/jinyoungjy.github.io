@@ -89,7 +89,12 @@ education:
 experiences:
     title: Experiences
     info:
-    
+
+      - role: Republic of Korea Army
+        time: 2024.05 ~ 2025.11
+        company: Ministry of National Defense
+        details: Serviced as Korea Army
+        
       - role: Undergraduate research intern (IIL)
         time: 2023.06 ~ 2023.08
         company: Postech Information and Intelligence Lab (POSTECH)
